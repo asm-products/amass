@@ -10,6 +10,7 @@ gem 'sass-rails', '~> 4.0.1'
 gem 'uglifier', '>= 1.3.0'
 
 group :development, :test do
+  gem 'foreman'
   gem 'rspec-rails', '~> 3.0.0.beta'
 end
 
